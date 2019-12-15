@@ -1,0 +1,5 @@
+Install the Gatsby CLI
+
+npm install -g gatsby-cli
+gatsby new gatsby-site
+gatsby develop
